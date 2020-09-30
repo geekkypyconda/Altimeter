@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">"Altimeter "</string>
+    <string name="Info">Your Location is</string>
+    <string name="Lati">Your latitude:-</string>
+    <string name="longi">Your Longitude:-</string>
+    <string name="accuracy">"Accuracy:- "</string>
+    <string name="address">"Altitude:- "</string>
+    <string name="dispInfo">Getting Information Please Wait!</string>
+</resources>
